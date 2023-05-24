@@ -1,4 +1,4 @@
-const moves = ['north', 'north', 'west', 'west', 'north', 'east', 'north']
+const moves = ['north', 'north', 'west', 'west', 'north', 'east', 'north'];
 
 const finalPosition = function (moves) {
   let x = 0; let y = 0;
